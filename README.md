@@ -4,10 +4,15 @@ To ensure an optimal user experience and prevent subscriber churn, it is essenti
 
 # Table of Content :-
 1.Problem Statement
+
 2.Objective
-3.Dataset
+
+3.Datase
+
 4.Data Pipeline
+
 5.Project Structure
+
 6.Conclusion
 
 # Problem Statement :-
